@@ -38,3 +38,45 @@
 //             var result = parseInt(firstNumber.value) * secondNumber.value;
 //             alert(result)
 // });
+
+
+//exercice 6
+
+// console.log("mfaemf")
+// var firstNumber = document.getElementById("premier_nombre")
+// var secondNumber = document.getElementById("deuxieme_nombre")
+
+// var btnElement = document.getElementById("valider")
+// btnElement.addEventListener("click", function(){
+//     //alert(parseInt(firstNumber.value) * secondNumber.value)
+//           //or
+//             var result = firstNumber.value % secondNumber.value;
+//             alert(result)
+// });
+
+
+//exercice 7
+
+// console.log("mfaemf")
+// var shoesSize = document.getElementById("pointure")
+// var birthYear = document.getElementById("annee")
+
+// var btnElement = document.getElementById("valider")
+// btnElement.addEventListener("click", function(){
+//             var result = ((shoesSize.value*2) + 5) * 50 - birthYear.value + 1766 ;
+//             alert(result)
+// });
+
+
+// exercice 8
+
+// var ageNumber = document.getElementById("age");
+
+// var btnElement = document.getElementById("valider")
+// btnElement.addEventListener("click", function(){
+//     if (ageNumber.value >= 18) {
+//             alert("Vous êtes majeur");
+//         } else {
+//             alert("Vous êtes mineur")};
+        
+// });
